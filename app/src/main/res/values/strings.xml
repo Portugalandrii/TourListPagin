@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TourListPagin</string>
+    <string name="error_message">Error !! Tap to retry.</string>
+</resources>
