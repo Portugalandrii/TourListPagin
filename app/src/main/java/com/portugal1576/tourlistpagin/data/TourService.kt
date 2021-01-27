@@ -20,7 +20,7 @@ interface TourService {
     companion object {
         var BASE_URL = "*********"
 
-        fun create(): TourService {    //эта функция реализует интерфейс BankService с помощью класса Retrofit
+        fun create(): TourService {    
 
             val retrofit = Retrofit.Builder()
                 .baseUrl(BASE_URL)
